@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                                                                                  |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh                                   |
-| Final Project: [Project Description]     | https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh                        |
+| Mini Projects: Camara Hackaing       | https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh                                       |
+| Final Project: FoldersFinderInWeb    | https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh                            |
