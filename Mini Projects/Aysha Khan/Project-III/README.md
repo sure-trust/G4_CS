@@ -7,20 +7,21 @@
  ultimately strengthening Knowledge and skills in ethical hacking and
  vulnerablity assessment.
 
- **==\>Tryhackme User-Name:T.AyshAkhAn**
+# **==\>Tryhackme User-Name:T.AyshAkhAn**
+   Visit my Tryhackme account to verify the Project-II.
 
- **About the vulnerability:**\
+# **About the vulnerability:**\
  So, as the name of the room,gives us a small hint about the
  vulnerability or the exploit that can be used for the machine.
 
  Eternal Blue was the exploit used by the world famous WannaCry in
  order attack Windows bases systems using SMB(Server Message Block).
 
- *Fun Fact*: The NSA(National Security Agency) knew about this
+ **Fun Fact**: The NSA(National Security Agency) knew about this
  vulnerability and kept it as secret for more than five years from
  Microsoft.
 
- Metasploit has a module for this exploit.Its RCE(Remote Code
+ **Metasploit** has a module for this exploit.Its RCE(Remote Code
  Execution) where a program on the target machine allows execution of a
 malicious code remotely ,hence compromising the machine.
 
