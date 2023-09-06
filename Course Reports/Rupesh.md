@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: RUPESH MEKALA
 
-## Qualifications: [Your Qualifications]
+## Qualifications: B.Tech
 
 Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
 
@@ -21,7 +21,7 @@ Welcome to the course report for the [Course Name]! This README document provide
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                               | Link                                    |
+| Description                               | Link                                                                                                  |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: [Project Description]     | https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh                                   |
+| Final Project: [Project Description]     | https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh                        |
