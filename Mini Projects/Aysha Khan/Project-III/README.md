@@ -7,10 +7,12 @@
  ultimately strengthening Knowledge and skills in ethical hacking and
  vulnerablity assessment.
 
-# **==\>Tryhackme User-Name:T.AyshAkhAn**
-   Visit my Tryhackme account to verify the Project-II.
+Visit my Tryhackme account to verify the Project-II.
 
-# **About the vulnerability:**\
+# **==\>Tryhackme User-Name:T.AyshAkhAn**
+   
+
+# **About the vulnerability:**
  So, as the name of the room,gives us a small hint about the
  vulnerability or the exploit that can be used for the machine.
 
