@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Project-I:Crypto-Tool for encryption and decryption,Project-II:Research on Offensive Tools,Project-III:Eternal Blue    | [Click Here](),[Click Here](),[Click Here]()                         |
-| Final Project: Cisco-Packet-Tracer   | [Click Here]()                         |
+| Mini Projects: Project-I:Crypto-Tool for encryption and decryption,Project-II:Research on Offensive Tools,Project-III:Eternal Blue    | [Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Aysha%20Khan/Project-I),[Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Aysha%20Khan/Project-II),[Click Here](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Aysha%20Khan/Project-III)                         |
+| Final Project: Cisco-Packet-Tracer   | [Click Here](https://github.com/sure-trust/G4_CS/tree/main/Final%20Capstone%20Project/Aysha%20Khan)                         |
