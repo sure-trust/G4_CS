@@ -24,6 +24,6 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: Cryptotool  ,  Research on Defensive Tools , Blue in tryhackme    | [Click here for project - 1](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Revanth/Project%201)  , 
-                                                                     [Click here for project - 2](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Revanth/Project%202),
-                                                                     [Click here for Project-3](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Revanth/Project%203)                    | 
+ [Click here for project - 2](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Revanth/Project%202),
+  [Click here for Project-3](https://github.com/sure-trust/G4_CS/tree/main/Mini%20Projects/Revanth/Project%203)                    | 
 | Final Project: Ransom ware     | [click here ](https://github.com/sure-trust/G4_CS/tree/main/Final%20Capstone%20Project/Revanth)                         |
