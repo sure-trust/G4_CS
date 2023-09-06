@@ -1,11 +1,11 @@
 # **PROJECT-III**
 
- **Aim:**
+#  **Aim:**
 
-   To comprehensively understand and mitigate the risks associated with
+   **To comprehensively understand and mitigate the risks associated with
  the EternalBlue exploit by exploring the **Blue** room on TryHackMe,
  ultimately strengthening Knowledge and skills in ethical hacking and
- vulnerablity assessment.
+ vulnerablity assessment.**
 
 Visit my Tryhackme account to verify the Project-II.
 
