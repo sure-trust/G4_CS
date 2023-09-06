@@ -1,5 +1,5 @@
 
-#PROJECT-II
+PROJECT-II
 
  **Aim**: The aim of this project is to comprehensively assess the
  capabilities, risks, and implications of offensive cybersecurity
@@ -8,7 +8,7 @@
  they exploit, and the ethical and security
  considerations surrounding their use.
 
-#Tool_I 
+Tool_I 
 
 ==\> Selected Offensive Tool Name:Villain
 
@@ -155,7 +155,7 @@ able to directly reach each other as well. I intend to add a network
 route mapping utility so that sibling servers can use one another as a
 proxy to achieve cross network communication between them.
 
-#Tool_II\
+Tool_II\
 ==\>Selected Offensive Tool Name : METASPLOIT-FRAMEWORK
 
  About **METASPLOIT**:
