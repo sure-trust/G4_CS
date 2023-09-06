@@ -20,8 +20,7 @@ Welcome to the course report for the [Course Name]! This README document provide
 ### Mini Projects and Final Project
 
 Below is a table summarizing the mini projects and final project completed during the course:
-
-| Description                               | Link                                                                                                  |
+| Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Camara Hackaing       | https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh                                       |
-| Final Project: FoldersFinderInWeb    | https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh                            |
+| Mini Projects: Project-I:Crypto-Tool for encryption and decryption,Project-II:Research on Offensive Tools,Project-III:Eternal Blue    | [Click Here](),[Click Here](),[Click Here]()                         |
+| Final Project: Cisco-Packet-Tracer   | [Click Here]()                         |
