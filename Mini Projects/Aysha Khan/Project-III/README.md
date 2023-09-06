@@ -1,4 +1,4 @@
-# **[PROJECT-III]**
+# **PROJECT-III**
 
  **Aim:**
 
