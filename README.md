@@ -27,6 +27,7 @@ This repository is designed to support the G4 Cyber Security program at SURE Tru
 - *Mini Projects*: https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh
 - *Final Project*: https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh
 - *Course Reports*: https://github.com/rupesh4950/G4_CS/blob/main/Course%20Reports/Rupesh.md
+  
 Feel welcome to navigate through each designated folder to access specific, targeted resources. 
 
 We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
