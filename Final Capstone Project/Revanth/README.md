@@ -1,1 +1,10 @@
-# G14_FSD
+# Ransomware
+1. *Creation of Ransomware:* The attackers have developed a piece of software, likely written in the Python programming language, that is designed to encrypt various types of files on a victim's computer. This encryption process converts the files into a format that is unreadable and unusable without the appropriate decryption key.
+
+2. *Encryption of Files:* Once the ransomware is executed on a victim's computer, it searches for and encrypts a wide range of files present on the system. This could include documents, images, videos, and other types of personal and important data. The encryption process typically uses a strong cryptographic algorithm to ensure that the files cannot be easily decrypted without the proper key.
+
+3. *Key Generation:* After encrypting the victim's files, the ransomware generates a unique decryption key. This key is required to reverse the encryption process and restore the files to their original readable state. Without this key, the victim cannot access their files.
+
+4. *Ransom Demand:* The attackers then display a ransom note or message on the victim's screen. This message informs the victim that their files have been encrypted and provides instructions on how to make a ransom payment to the attackers. The note often contains information on how much money is demanded and how the payment should be made, usually in a form of cryptocurrency like Bitcoin to make tracing the transactions difficult.
+5. *Ransom Demand:* The attackers then display a ransom note or message on the victim's screen. This message informs the victim that their files have been encrypted and provides instructions on how to make a ransom payment to the attackers. The note often contains information on how much money is demanded and how the payment should be made, usually in a form of cryptocurrency like Bitcoin to make tracing the transactions difficult.
+6. *Decryption of Files:* Upon receiving the decryption key, the victim can then use it to decrypt their files. This process reverses the encryption applied by the ransomware, making the files accessible and usable again.
