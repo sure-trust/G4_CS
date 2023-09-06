@@ -183,7 +183,7 @@ With Metasploit, the Pen Testing Team can use ready-made or custom
 
  ![](vertopal_d236c31b48be4ca28ab6c942ae086c74/media/image15.png)
 
- **BASIC COMMANDS USED IN METASPLOIT**
+ **BASIC COMMANDS USED IN METASPLOIT**\
  One shortcut is to type "help" into the console, which will bring up a
  list of Metasploit commands and their descriptions. It should look
  like this:
