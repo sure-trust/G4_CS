@@ -1,6 +1,6 @@
-**[PROJECT]{.underline}**
+# **PROJECT**
 
-**Aim:**
+# **Aim:**
 
 **To understand the metasploit tool and to learn about the how real time
 windows machine hacking works and then to know very well about the
@@ -47,5 +47,5 @@ height="3.15in"}
 ![](vertopal_608fe7c8fddd4e7386afbe75e65ae9b6/media/image8.wmf){width="5.4in"
 height="3.15in"}
 
-==============The Room Completed
+====================The Room Completed
 Successfully==================================
