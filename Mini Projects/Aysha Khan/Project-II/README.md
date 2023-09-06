@@ -281,6 +281,9 @@ command\....
  easily available, making it an easy to install, reliable tool for
  security
 
- professionals to be familiar with even if they don't need to use it.\
+ professionals to be familiar with even if they don't need to use it.\\
+ \
+ \
+
 **Thank you**
 
