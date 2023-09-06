@@ -52,8 +52,8 @@
 
 ![](vertopal_d236c31b48be4ca28ab6c942ae086c74/media/image3.png)
 
- *In this Poject will go with some basics commands which are used by
- Villain to generate Reverse Shell/Backdoor Payloads\....*
+ In this Poject will go with some basics commands which are used by
+ Villain to generate Reverse Shell/Backdoor Payloads\....
 
  Generate Reverse Shell Commands
 
@@ -155,7 +155,7 @@ able to directly reach each other as well. I intend to add a network
 route mapping utility so that sibling servers can use one another as a
 proxy to achieve cross network communication between them.
 
-# Tool_II\
+# Tool_II
 
 ==\>Selected Offensive Tool Name : METASPLOIT-FRAMEWORK
 
@@ -182,7 +182,7 @@ With Metasploit, the Pen Testing Team can use ready-made or custom
 
  ![](vertopal_d236c31b48be4ca28ab6c942ae086c74/media/image15.png)
 
- **[BASIC COMMANDS USED IN METASPLOIT:]{.underline}**
+ **BASIC COMMANDS USED IN METASPLOIT**
  One shortcut is to type "help" into the console, which will bring up a
  list of Metasploit commands and their descriptions. It should look
  like this:
