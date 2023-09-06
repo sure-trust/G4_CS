@@ -1,5 +1,5 @@
 
-PROJECT-II
+# PROJECT-II
 
  **Aim**: The aim of this project is to comprehensively assess the
  capabilities, risks, and implications of offensive cybersecurity
@@ -8,11 +8,11 @@ PROJECT-II
  they exploit, and the ethical and security
  considerations surrounding their use.
 
-Tool_I 
+# Tool_I 
 
 ==\> Selected Offensive Tool Name:Villain
 
- About Villain:
+ About **Villain:**
 
  In this project, I explored **Villain**, a C2 framework
 
@@ -131,7 +131,7 @@ To Terminate the session use \<kill\> command with the session ID\...
 
 ![](vertopal_d236c31b48be4ca28ab6c942ae086c74/media/image12.png)
 
- Conclusions:
+ **Conclusions**
 
  Villain has a built-in auto-obfuscate payload function to assist users
  in bypassing AV solutions (for Windows payloads). As a result,
@@ -155,7 +155,8 @@ able to directly reach each other as well. I intend to add a network
 route mapping utility so that sibling servers can use one another as a
 proxy to achieve cross network communication between them.
 
-Tool_II\
+# Tool_II\
+
 ==\>Selected Offensive Tool Name : METASPLOIT-FRAMEWORK
 
  About **METASPLOIT**:
@@ -267,7 +268,7 @@ command\....
 
  ![](vertopal_d236c31b48be4ca28ab6c942ae086c74/media/image36.png)
 
- **CONCLUSION:**
+ **Conclusions**
 
  With the wide range of applications and open-source availability that
 
