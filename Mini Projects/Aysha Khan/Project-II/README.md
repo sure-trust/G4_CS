@@ -15,9 +15,7 @@
 
  About **Villain:**
 
- In this project, I explored **Villain**, a C2 framework
-
- that advances the idea behind handling multiple TCP\
+ In this project, I explored **Villain**, a C2 framework that advances the idea behind handling multiple TCP 
  sockets and HoaxShell-based reverse shells to new heights.
 
  It allows users to generate powerful and customizable payloads for
