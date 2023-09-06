@@ -24,10 +24,9 @@ To enroll in the Cyber Security, please visit the official SURE Trust website: [
 This repository is designed to support the G4 Cyber Security program at SURE Trust. It follows the below mentioned organization structure:
 
 - *Notes*: An archive of  notes and course materials provided by the trainer.
-- *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
-- *Final Project*: A comprehensive compilation of code files and resources of the final projects.
-- *Course Reports*: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
-
+- *Mini Projects*: https://github.com/rupesh4950/G4_CS/tree/main/Mini%20Projects/Rupesh
+- *Final Project*: https://github.com/rupesh4950/G4_CS/tree/main/Final%20Capstone%20Project/Rupesh
+- *Course Reports*: https://github.com/rupesh4950/G4_CS/blob/main/Course%20Reports/Rupesh.md
 Feel welcome to navigate through each designated folder to access specific, targeted resources. 
 
 We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
