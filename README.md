@@ -19,6 +19,14 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Cyber Security, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/32)
 
+
+|Student name|Link|
+|------------|----|
+|Aysha khan|[click here](link)|
+|Revanth|[click here](link)|
+|Rupesh|[click here](link)|
+
+
 ## Repository Description
 
 This repository is designed to support the G4 Cyber Security program at SURE Trust. It follows the below mentioned organization structure:
