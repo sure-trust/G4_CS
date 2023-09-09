@@ -22,9 +22,9 @@ To enroll in the Cyber Security, please visit the official SURE Trust website: [
 
 |Student name|Link|
 |------------|----|
-|Aysha khan|[click here](link)|
-|Revanth|[click here](link)|
-|Rupesh|[click here](link)|
+|Aysha khan|[click here](https://github.com/sure-trust/G4_CS/blob/main/Course%20Reports/Aysha%20khan.md)|
+|Revanth|[click here](https://github.com/sure-trust/G4_CS/blob/main/Course%20Reports/ANAND%20REVANTH%20KUMAR.md)|
+|Rupesh|[click here](https://github.com/sure-trust/G4_CS/blob/main/Course%20Reports/Rupesh.md)|
 
 
 ## Repository Description
